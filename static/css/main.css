@@ -21,12 +21,13 @@ body{
     font-family: 'Varela Round', sans-serif;
     font-size: 1rem;
     background: linear-gradient(45deg,
-    #d65db1,
-    #ff6f91,
-    #ff9671,
-    #ffc75f,
-    #f9f871);
-    background-size: 100%;
+    #7a5b97,
+    #8371b1,
+    #8c88c2,
+    #8a93c5,
+    #85a9df,
+    #84bddc);
+    background-size: 400%;
     animation: bg-animation 10s infinite alternate;
 }
 
