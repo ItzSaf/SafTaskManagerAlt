@@ -55,8 +55,8 @@ table {
 th {
     height: 30px;
     font-family: 'Varela Round', sans-serif;
-    color: rgba(0, 0, 0, 0.579);
-    background-color: #ff977146;
+    color: rgb(0 0 0 / 68%);
+    background-color: #7371e46b;
     font-weight: bold;
 }
 
@@ -65,7 +65,7 @@ td {
     font-family: 'Varela Round', sans-serif;
     color: rgba(0, 0, 0, 0.803);
     padding: 5px;
-    background-color: #ffc75f3f;
+    background-color: #8099d040;
     font-family: sans-serif;
 }
 
@@ -91,9 +91,9 @@ td {
 .title {
     font-family: 'Varela Round', sans-serif;
     text-transform: uppercase;
-    font-weight: 00;
+    font-weight: 900;
     font-weight: bold;
-    color: #46207a;
+    color: #4a37b2a8;
     transform: scale(1.2, 1.22);
     letter-spacing: 1px;
     text-align: center;
